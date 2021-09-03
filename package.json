@@ -1,0 +1,35 @@
+{
+  "name": "funda-node",
+  "version": "1.0.0",
+  "description": "Cursos de Fundamentos de Node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javifelices/fundamentos-node-platzi.git"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "eventloop",
+    "monohilo",
+    "callback",
+    "promesa",
+    "promise",
+    "async",
+    "asincronia",
+    "paquete",
+    "package",
+    "modulo",
+    "module",
+    "debugger"
+  ],
+  "author": "Javi Felices @javifelices <javifelices@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/javifelices/fundamentos-node-platzi/issues"
+  },
+  "homepage": "https://github.com/javifelices/fundamentos-node-platzi#readme"
+}
