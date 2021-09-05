@@ -37,3 +37,5 @@
 ![Monohilo](https://i.imgur.com/BnuYl9j.jpg)
 
 ![Variables de entorno](https://i.imgur.com/4TnweUE.jpg)
+
+![Nodemon y PM2](https://i.imgur.com/GF2kpOI.jpg)
