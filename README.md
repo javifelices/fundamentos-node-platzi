@@ -11,10 +11,20 @@
 
 - [Node.js Everywhere with Environment Variables!](https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786)
 
+- [Función callback en Javascript: La guía completa](https://antonioweb.dev/articulo/funcion-callback-javascript-guia-completa)
+
+- [El Callback Hell](https://blog.nearsoftjobs.com/the-callback-hell-6cc184ce8704)
+
+- [Callbacks, Promesas y Async/Await, ¡Que alguien me explique!](https://medium.com/@jmz12/callbacks-promesas-y-async-await-que-alguien-me-explique-514137cb57e2)
+
+- [Using recursion to tame callback hell](http://seanvbaker.com/using-recursion-to-tame-callback-hell/)
+
 
 ## Vídeos
 
 - [Node.js ¡En Vivo! - Desmitificando el Event Loop | Julián Duque](https://www.youtube.com/watch?v=Eqq2Rb7LzYE)
+
+- [Callback en ¡5 minutos! - JavaScript | Informática DP](https://www.youtube.com/watch?v=zQVnDW8SaA0)
 
 
 ## Repositorios
