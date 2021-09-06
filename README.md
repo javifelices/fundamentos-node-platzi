@@ -23,6 +23,12 @@
 
 - [Promise | MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
+- [Función async | MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/async_function)
+
+- [Las promesas y async await no son iguales | Platzi](https://platzi.com/tutoriales/1789-asincronismo-js/5063-las-promesas-y-async-await-logicamente-no-son-iguales-y-te-explico-el-porque/)
+
+- [¿Qué diferencias hay entre callbacks, promises y async/awit? | stackoverflow](https://es.stackoverflow.com/questions/277690/qu%C3%A9-diferencias-hay-entre-callbacks-promises-y-async-awai)
+
 
 ## Vídeos
 
@@ -31,6 +37,10 @@
 - [Callback en ¡5 minutos! - JavaScript | Informática DP](https://www.youtube.com/watch?v=zQVnDW8SaA0)
 
 - [Promesas, Programación Funcional en Javascript | HolaMundo](https://www.youtube.com/watch?v=5XyzLfPBpZs)
+
+- [Async Await en JavaScript. Programación asíncrona en JavaScript | Leonidas](https://www.youtube.com/watch?v=E5ENWEcoDdI)
+
+- [Javascript Async Await, Promesas y Callbacks | Fazt](https://www.youtube.com/watch?v=Q3HtXuDEy5s)
 
 
 ## Repositorios
