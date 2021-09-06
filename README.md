@@ -3,21 +3,25 @@
 
 ## Artículos
 
-- [Javascript Asíncrono: La guía definitiva](https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono)
+- [Javascript Asíncrono: La guía definitiva | lemoncode](https://lemoncode.net/lemoncode-blog/2018/1/29/javascript-asincrono)
 
-- [Formas de manejar la asincronía en JavaScript](https://carlosazaustre.es/manejando-la-asincronia-en-javascript)
+- [Formas de manejar la asincronía en JavaScript | carlosazaustre](https://carlosazaustre.es/manejando-la-asincronia-en-javascript)
 
-- [Manejo de variables de entorno en Nodejs](https://jairofernandez.medium.com/manejo-de-variables-de-entorno-en-node-js-ac90f7a2c1e5)
+- [Manejo de variables de entorno en Nodejs | jairofernandez](https://jairofernandez.medium.com/manejo-de-variables-de-entorno-en-node-js-ac90f7a2c1e5)
 
-- [Node.js Everywhere with Environment Variables!](https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786)
+- [Node.js Everywhere with Environment Variables! | Medium](https://medium.com/the-node-js-collection/making-your-node-js-work-everywhere-with-environment-variables-2da8cdf6e786)
 
-- [Función callback en Javascript: La guía completa](https://antonioweb.dev/articulo/funcion-callback-javascript-guia-completa)
+- [Función callback en Javascript: La guía completa | antonioweb](https://antonioweb.dev/articulo/funcion-callback-javascript-guia-completa)
 
 - [El Callback Hell](https://blog.nearsoftjobs.com/the-callback-hell-6cc184ce8704)
 
-- [Callbacks, Promesas y Async/Await, ¡Que alguien me explique!](https://medium.com/@jmz12/callbacks-promesas-y-async-await-que-alguien-me-explique-514137cb57e2)
+- [Callbacks, Promesas y Async/Await, ¡Que alguien me explique! | Medium](https://medium.com/@jmz12/callbacks-promesas-y-async-await-que-alguien-me-explique-514137cb57e2)
 
-- [Using recursion to tame callback hell](http://seanvbaker.com/using-recursion-to-tame-callback-hell/)
+- [Using recursion to tame callback hell | Seanvbaker](http://seanvbaker.com/using-recursion-to-tame-callback-hell/)
+
+- [Usar promesas | MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Using_promises)
+
+- [Promise | MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 
 ## Vídeos
@@ -25,6 +29,8 @@
 - [Node.js ¡En Vivo! - Desmitificando el Event Loop | Julián Duque](https://www.youtube.com/watch?v=Eqq2Rb7LzYE)
 
 - [Callback en ¡5 minutos! - JavaScript | Informática DP](https://www.youtube.com/watch?v=zQVnDW8SaA0)
+
+- [Promesas, Programación Funcional en Javascript | HolaMundo](https://www.youtube.com/watch?v=5XyzLfPBpZs)
 
 
 ## Repositorios
