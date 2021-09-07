@@ -29,6 +29,8 @@
 
 - [¿Qué diferencias hay entre callbacks, promises y async/awit? | stackoverflow](https://es.stackoverflow.com/questions/277690/qu%C3%A9-diferencias-hay-entre-callbacks-promises-y-async-awai)
 
+- [global](https://nodejs.org/api/globals.html#globals_global)
+
 
 ## Vídeos
 
@@ -65,3 +67,10 @@
 ![Variables de entorno](https://i.imgur.com/4TnweUE.jpg)
 
 ![Nodemon y PM2](https://i.imgur.com/GF2kpOI.jpg)
+
+![Global](https://i.imgur.com/H9lrtYj.jpg)
+> El objeto `global` proporciona variables y funciones que están disponibles en cualquier lugar. Por defecto, aquellas que están integradas en el lenguaje o el entorno.
+
+> En un navegador se denomina `window`, para Node.js es `global`
+
+> `this` hace referencia al objeto contexto en el cual se está ejecutando el código actual.
