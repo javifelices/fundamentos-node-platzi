@@ -31,5 +31,8 @@
     "bugs": {
         "url": "https://github.com/javifelices/fundamentos-node-platzi/issues"
     },
-    "homepage": "https://github.com/javifelices/fundamentos-node-platzi#readme"
+    "homepage": "https://github.com/javifelices/fundamentos-node-platzi#readme",
+    "dependencies": {
+        "node-fetch": "^3.0.0"
+    }
 }
