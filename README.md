@@ -31,6 +31,8 @@
 
 - [global](https://nodejs.org/api/globals.html#globals_global)
 
+- [Estás usando mal console.log en javascript](https://dev.to/silicosis/estas-usando-mal-console-log-en-javascript-41kg)
+
 
 ## Vídeos
 
