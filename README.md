@@ -29,9 +29,17 @@
 
 - [¿Qué diferencias hay entre callbacks, promises y async/awit? | stackoverflow](https://es.stackoverflow.com/questions/277690/qu%C3%A9-diferencias-hay-entre-callbacks-promises-y-async-awai)
 
-- [global](https://nodejs.org/api/globals.html#globals_global)
+- [global | nodejs](https://nodejs.org/api/globals.html#globals_global)
 
-- [Estás usando mal console.log en javascript](https://dev.to/silicosis/estas-usando-mal-console-log-en-javascript-41kg)
+- [Estás usando mal console.log en javascript | Dev.to](https://dev.to/silicosis/estas-usando-mal-console-log-en-javascript-41kg)
+
+- [try...catch | MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/try...catch)
+
+- [throw | MDN](https://developer.mozilla.org/es/docs/Web/JavaScript/Reference/Statements/throw)
+
+- [Node.js Best Practice Exception Handling | stackoverflow](https://stackoverflow.com/questions/7310521/node-js-best-practice-exception-handling)
+
+- [Handling errors in nodejs in (nested) try/catch/finally blocks | stackoverflow](https://stackoverflow.com/questions/61686364/handling-errors-in-nodejs-in-nested-try-catch-finally-blocks)
 
 
 ## Vídeos
