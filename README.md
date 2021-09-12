@@ -41,6 +41,8 @@
 
 - [Handling errors in nodejs in (nested) try/catch/finally blocks | stackoverflow](https://stackoverflow.com/questions/61686364/handling-errors-in-nodejs-in-nested-try-catch-finally-blocks)
 
+- [Diferencia entre spawn y exec de child_process de NodeJS | yo soy dev](https://yosoy.dev/diferencia-entre-spawn-y-exec-de-child_process-de-nodejs/)
+
 
 ## Vídeos
 
@@ -53,6 +55,8 @@
 - [Async Await en JavaScript. Programación asíncrona en JavaScript | Leonidas](https://www.youtube.com/watch?v=E5ENWEcoDdI)
 
 - [Javascript Async Await, Promesas y Callbacks | Fazt](https://www.youtube.com/watch?v=Q3HtXuDEy5s)
+
+- [Child processes | API Node.js](https://nodejs.org/api/child_process.html)
 
 
 ## Repositorios
@@ -84,3 +88,5 @@
 > En un navegador se denomina `window`, para Node.js es `global`
 
 > `this` hace referencia al objeto contexto en el cual se está ejecutando el código actual.
+
+![Child Process](https://i.imgur.com/k153dc8.png)
