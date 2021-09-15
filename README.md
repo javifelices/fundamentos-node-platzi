@@ -43,6 +43,12 @@
 
 - [Diferencia entre spawn y exec de child_process de NodeJS | yo soy dev](https://yosoy.dev/diferencia-entre-spawn-y-exec-de-child_process-de-nodejs/)
 
+- [HTTP Cats](https://http.cat/)
+
+- [Adding routes and logic to a pure Node.js server | Medium](https://medium.com/@officialrahulmandal/adding-routes-and-logic-to-a-pure-node-js-server-9f995298d984)
+
+- [Express JS vs pure Node.js - performance benchmarks? | stackoverflow](https://stackoverflow.com/questions/10953307/express-js-vs-pure-node-js-performance-benchmarks)
+
 
 ## Vídeos
 
@@ -90,3 +96,5 @@
 > `this` hace referencia al objeto contexto en el cual se está ejecutando el código actual.
 
 ![Child Process](https://i.imgur.com/k153dc8.png)
+
+![HTTP Status Codes Cheat Sheet](https://i.imgur.com/u0WM0iS.png)
