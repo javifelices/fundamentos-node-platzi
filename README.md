@@ -95,3 +95,5 @@
 ![Child Process](https://i.imgur.com/k153dc8.png)
 
 ![HTTP Status Codes Cheat Sheet](https://i.imgur.com/u0WM0iS.png)
+
+![Unidades, valor y tamaño en Bytes](https://i.imgur.com/uaNC0wS.jpg)
