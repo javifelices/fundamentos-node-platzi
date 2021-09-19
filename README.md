@@ -50,6 +50,14 @@
 
 -   [Express JS vs pure Node.js - performance benchmarks? | stackoverflow](https://stackoverflow.com/questions/10953307/express-js-vs-pure-node-js-performance-benchmarks)
 
+-   [Node Buffers | Flavio Copes](https://flaviocopes.com/node-buffers/)
+
+-   [Do you want a better understanding of Buffer in Node.js? | Medium - freeCodeCamp](https://medium.com/free-code-camp/do-you-want-a-better-understanding-of-buffer-in-node-js-check-this-out-2e29de2968e8)
+
+-   [Qué son buffer en NodeJs y ejemplos | DesarrolloWeb](https://desarrolloweb.com/articulos/buffer-en-nodejs.html)
+
+-   [How to Use Buffers in Node.js](https://nodejs.org/en/knowledge/advanced/buffers/how-to-use-buffers/)
+
 ## Vídeos
 
 -   [Node.js ¡En Vivo! - Desmitificando el Event Loop | Julián Duque](https://www.youtube.com/watch?v=Eqq2Rb7LzYE)
@@ -64,15 +72,19 @@
 
 -   [Babel, Webpack & Ecmascript 10, Javascript Moderno | Fazt](https://www.youtube.com/watch?v=FZBbX9f6b78)
 
+-   [Node JS Tutorial for Beginners #13 - Streams and Buffers | The Net Ninja](https://www.youtube.com/watch?v=GlybFFMXXmQ)
+
 ## Repositorios
 
 -   [@CodingCarlos](https://github.com/CodingCarlos/fundamentos-node-platzi)
 
 ## Recursos
 
+-   [Fundamentos de Node.js | NOTION por Camilo José Mezú Mina (camilojm27)](https://www.notion.so/Fundamentos-de-Node-js-3d1041ef2a7e4835a10838a0c6553ee8)
+
 -   [Notas Curso de Fundamentos de Node.js | Platzi](https://platzi.com/tutoriales/1759-fundamentos-node/9490-notas-curso-de-fundamentos-de-nodejs-notion/)
 
--   [Fundamentos de Node.js | NOTION por Camilo José Mezú Mina (camilojm27)](https://www.notion.so/Fundamentos-de-Node-js-3d1041ef2a7e4835a10838a0c6553ee8)
+-   [Convert Text to Hex](https://www.browserling.com/tools/text-to-hex)
 
 ![Nodejs Event Loop](https://i.imgur.com/CdoAhi2.jpg)
 
