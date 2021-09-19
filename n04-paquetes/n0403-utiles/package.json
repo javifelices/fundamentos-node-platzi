@@ -1,0 +1,27 @@
+{
+  "name": "node-funda-modulos-utiles",
+  "version": "1.0.0",
+  "description": "Módulos útiles con algún ejemplo para el curso de fundamentos de node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "npm",
+    "module",
+    "bcrypt",
+    "moment",
+    "dayjs",
+    "sharp",
+    "bcryptjs"
+  ],
+  "author": "Javi Felices @javifelices <javifelices@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "dayjs": "^1.10.7",
+    "sharp": "^0.29.1"
+  }
+}
