@@ -42,6 +42,8 @@
 
 -   [Diferencia entre spawn y exec de child_process de NodeJS | yo soy dev](https://yosoy.dev/diferencia-entre-spawn-y-exec-de-child_process-de-nodejs/)
 
+-   [Child processes | API Node.js](https://nodejs.org/api/child_process.html)
+
 -   [HTTP Cats](https://http.cat/)
 
 -   [Adding routes and logic to a pure Node.js server | Medium](https://medium.com/@officialrahulmandal/adding-routes-and-logic-to-a-pure-node-js-server-9f995298d984)
@@ -55,12 +57,12 @@
 -   [Callback en ¡5 minutos! - JavaScript | Informática DP](https://www.youtube.com/watch?v=zQVnDW8SaA0)
 
 -   [Promesas, Programación Funcional en Javascript | HolaMundo](https://www.youtube.com/watch?v=5XyzLfPBpZs)
-
+/t
 -   [Async Await en JavaScript. Programación asíncrona en JavaScript | Leonidas](https://www.youtube.com/watch?v=E5ENWEcoDdI)
 
 -   [Javascript Async Await, Promesas y Callbacks | Fazt](https://www.youtube.com/watch?v=Q3HtXuDEy5s)
 
--   [Child processes | API Node.js](https://nodejs.org/api/child_process.html)
+-   [Babel, Webpack & Ecmascript 10, Javascript Moderno | Fazt](https://www.youtube.com/watch?v=FZBbX9f6b78)
 
 ## Repositorios
 
