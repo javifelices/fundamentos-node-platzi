@@ -58,6 +58,18 @@
 
 -   [How to Use Buffers in Node.js](https://nodejs.org/en/knowledge/advanced/buffers/how-to-use-buffers/)
 
+-   [Stream | Node.js](https://nodejs.org/api/stream.html)
+
+-   [Implementing a transform stream | Node.js](https://nodejs.org/docs/latest/api/stream.html#stream_implementing_a_transform_stream)
+
+-   [Streams en NodeJS | DesarrolloWeb](https://desarrolloweb.com/articulos/streams-nodejs.html)
+
+-   [Understanding Streams in Node.js](https://nodesource.com/blog/understanding-streams-in-nodejs)
+
+-   [Can someone explain what util.inherits does in more laymans terms? | stackoverflow](https://stackoverflow.com/questions/21358843/can-someone-explain-what-util-inherits-does-in-more-laymans-terms)
+
+-   [Node.js Streams: Everything you need to know | Medium](https://medium.com/edge-coders/node-js-streams-everything-you-need-to-know-c9141306be93)
+
 ## Vídeos
 
 -   [Node.js ¡En Vivo! - Desmitificando el Event Loop | Julián Duque](https://www.youtube.com/watch?v=Eqq2Rb7LzYE)
@@ -65,7 +77,7 @@
 -   [Callback en ¡5 minutos! - JavaScript | Informática DP](https://www.youtube.com/watch?v=zQVnDW8SaA0)
 
 -   [Promesas, Programación Funcional en Javascript | HolaMundo](https://www.youtube.com/watch?v=5XyzLfPBpZs)
-/t
+    /t
 -   [Async Await en JavaScript. Programación asíncrona en JavaScript | Leonidas](https://www.youtube.com/watch?v=E5ENWEcoDdI)
 
 -   [Javascript Async Await, Promesas y Callbacks | Fazt](https://www.youtube.com/watch?v=Q3HtXuDEy5s)
@@ -111,3 +123,9 @@
 ![HTTP Status Codes Cheat Sheet](https://i.imgur.com/u0WM0iS.png)
 
 ![Unidades, valor y tamaño en Bytes](https://i.imgur.com/uaNC0wS.jpg)
+
+![Streams](https://i.imgur.com/TkV1mAq.jpg)
+
+![Strream](https://i.imgur.com/Gu6Bxpw.png)
+
+![Buffers y Streams](https://i.imgur.com/Ace6f4W.jpg)
