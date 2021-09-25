@@ -1,0 +1,20 @@
+{
+    "name": "debugger",
+    "version": "1.0.0",
+    "description": "Debugger en NodeJS para escuchar peticiones http en un puerto",
+    "main": "debugger.js",
+    "scripts": {
+        "start": "node ./",
+        "debug": "nodemon --inspect ./",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "debugger",
+        "node",
+        "nodejs",
+        "npm",
+        "breakpoint"
+    ],
+    "author": "Javi Felices @javifelices <javifelices@gmail.com>",
+    "license": "MIT"
+}
