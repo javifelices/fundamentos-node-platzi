@@ -1,0 +1,21 @@
+{
+    "name": "electron-app",
+    "version": "1.0.0",
+    "description": "Crear una sencilla aplicación de escritorio con electron",
+    "main": "index.js",
+    "scripts": {
+        "start": "electron .",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "electron",
+        "node",
+        "nodejs",
+        "npm"
+    ],
+    "author": "Javi Felices @javifelices <javifelices@gmail.com>",
+    "license": "MIT",
+    "dependencies": {
+        "electron": "^15.0.0"
+    }
+}
