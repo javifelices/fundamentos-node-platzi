@@ -90,6 +90,8 @@
 
 -   [@CodingCarlos](https://github.com/CodingCarlos/fundamentos-node-platzi)
 
+-   [Node.js debugging in VS Code with Nodemon.](https://github.com/microsoft/vscode-recipes/tree/master/nodemon)
+
 ## Recursos
 
 -   [Fundamentos de Node.js | NOTION por Camilo José Mezú Mina (camilojm27)](https://www.notion.so/Fundamentos-de-Node-js-3d1041ef2a7e4835a10838a0c6553ee8)
