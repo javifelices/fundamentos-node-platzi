@@ -139,4 +139,7 @@ dist
 
 # End of https://www.toptal.com/developers/gitignore/api/node,visualstudiocode
 
+<<<<<<< HEAD
 .dccache
+=======
+>>>>>>> 014b65b42703825afbbc51eceeddbb5358bf6d9d
